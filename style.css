@@ -10,6 +10,12 @@
     background-size: cover;
     image-resolution: 1080px;
 }
+.felelet{
+    background-image: url(feleles.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    image-resolution: 1080px;
+}
 div, a{
 text-decoration: none;
 color: black;
