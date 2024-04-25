@@ -30,4 +30,11 @@ font-size: larger;
 }
 .fel{
     color: white;
+    text-decoration: none;
+}
+.sas{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: larger; 
 }
